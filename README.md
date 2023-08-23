@@ -1,10 +1,10 @@
 ## Hello there 👋 My name is Samuel.
 
 - 🔭 I am a Software Developer.
-- 🌱 I’m currently learning Angular and Go (Programming Language)
-- 👯 I’m looking to collaborate on Angular or React Applications
-- 💬 Ask me about ...
-- 📫 Reach me via :  [Email](gsammygitau@gmail.com)
+- 🌱 I’m currently learning Angular and Go (Programming Language).
+- 👯 I’m looking to collaborate on Web Application Projects.
+- 💬 Ask me about frontend development.
+- 📫 Reach me via :  [Email](gsammygitau@gmail.com).
 
 ---
 
