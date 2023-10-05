@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Angular and Go (Programming Language).
 - 👯 I’m looking to collaborate on Web Application Projects.
 - 💬 Ask me about frontend development.
-- 📫 Reach me via :  [Email](gsammygitau@gmail.com).
+- 📫 Reach me via : gsammygitau@gmail.com
 
 ---
 
